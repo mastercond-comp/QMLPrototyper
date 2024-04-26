@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.mastercond.QmlPrototyper
+Exec=/usr/bin/ru.mastercond.QmlPrototyper
+Name=QMLPrototyper
+Name[ru]=QML прототип
+
+[X-Application]
+Permissions=Documents;Downloads
+OrganizationName=ru.mastercond
+ApplicationName=QmlPrototyper
+ExecDBus=/usr/bin/ru.mastercond.QmlPrototyper
