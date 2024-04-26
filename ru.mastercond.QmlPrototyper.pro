@@ -44,11 +44,11 @@ CONFIG += \
 PKGCONFIG += \
 
 SOURCES += \
-    prototyper.cpp \
     src/main.cpp \
+    src/prototyper.cpp \
 
 HEADERS += \
-    prototyper.h
+    src/prototyper.h
 
 DISTFILES += \
     qml/pages/EditSourceCodeToPaste.qml \
