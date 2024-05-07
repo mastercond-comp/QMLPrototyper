@@ -16,5 +16,5 @@
 Планшет 10" (Аврора 4, Lifetab+):
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/screenshot_0.4_tab.png?raw=true">
 
-*Примечание: для сборки приложения на Аврора 5.1 воспользуйтесь файлом ru.mastercond.QmlPrototyper.spec[Аврора 5.1], переименуйте его в ru.mastercond.QmlPrototyper.spec, замените файл  папке rpm.
-Приложение будет собрано и пройдет валидацию в Аврора IDE для 5.1
+*<u>Примечание:</u> <br> Для сборки приложения на Аврора 5.1 воспользуйтесь файлом ru.mastercond.QmlPrototyper.spec[Аврора 5.1], переименуйте его в ru.mastercond.QmlPrototyper.spec, замените файл  папке rpm.
+<br>Приложение будет собрано и пройдет валидацию в Аврора IDE для 5.1
