@@ -14,7 +14,16 @@
 Скриншоты:
 
 Планшет 10" (Аврора 4, Lifetab+):
-<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/screenshot_0.4_tab.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-1.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-2.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-3.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-4.png?raw=true">
+Смартфон 5.5" (Аврора 4):
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-1.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-2.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-3.png?raw=true">
+<img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-4.png?raw=true">
+
 
 *Примечание: <br><br><i>Для сборки приложения на Аврора 5.1 воспользуйтесь файлом ru.mastercond.QmlPrototyper.spec[Аврора 5.1] - файл отдельно находится здесь выше в перечне файлов, переименуйте его в ru.mastercond.QmlPrototyper.spec, замените соответствующий файл в папке rpm.
 <br><br>Приложение будет собрано и пройдет валидацию в Аврора IDE для 5.1</i>
