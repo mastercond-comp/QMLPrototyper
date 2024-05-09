@@ -17,11 +17,13 @@
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-1.png?raw=true">
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-2.png?raw=true">
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-3.png?raw=true">
+<br><br>Пример запуска QML-кода из приложения на планшете:<br><br>
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/lifetab-v4-4.png?raw=true">
 <br><br>
 Смартфон 5.5" (Аврора 4):<br><br>
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-1.png?raw=true">
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-2.png?raw=true">
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-3.png?raw=true">
+<br><br>Пример запуска QML-кода из приложения на смартфоне:<br><br>
 <img src="https://github.com/mastercond-comp/QMLPrototyper/blob/main/r570e-v4-4.png?raw=true">
 <br><br>
