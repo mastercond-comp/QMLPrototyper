@@ -37,14 +37,11 @@
 
 import QtQuick 2.6
 import Sailfish.Silica 1.0
-import ru.mastercond.QmlPrototyper 1.0
 
 Page {
     objectName: "aboutPage"
     allowedOrientations: Orientation.All
     backgroundColor: Theme.overlayBackgroundColor
-
-     Prototyper {id: prototyper }
 
     SilicaFlickable {
         objectName: "flickable"
@@ -99,19 +96,10 @@ Page {
            Button {
                             anchors { left: parent.left; right: parent.right; margins: Theme.horizontalPageMargin }
                             text: "Исходный код"
-
-                            //onClicked: { copySourceCodes(); outputNotifications.close(); outputNotifications.previewBody = qsTr("Экспорт исходных кодов приложения выполнен в папку Документы, файл sources-QmlPrototyper-0.4.zip"); outputNotifications.publish(); }
-                            onClicked: { copySourceCodes(); Notices.show("Экспорт исходных кодов приложения выполнен в папку <b>Документы</b>,<br> файл <b>sources-QmlPrototyper-0.4.zip</b>", Notice.Long, Notice.Center); }
+                            onClicked: { Qt.openUrlExternally("https://github.com/mastercond-comp/QMLPrototyper"); }
 
                         }
                     }
                 }
-
-                function copySourceCodes()
-                {
-                    prototyper.copySources();
-                }
-
-
         }
 
